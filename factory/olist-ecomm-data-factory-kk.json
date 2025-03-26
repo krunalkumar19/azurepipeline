@@ -1,0 +1,9 @@
+{
+	"name": "olist-ecomm-data-factory-kk",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "111b544c-3639-4dfd-bf00-3009c4b056b2",
+		"tenantId": "5dc6fc03-f673-448a-984d-1c268a85d1cc"
+	}
+}
